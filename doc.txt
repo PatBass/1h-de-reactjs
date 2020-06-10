@@ -1,0 +1,14 @@
+LES ETAPES D'UNE APPLI REACT
+
+Installer node
+Taper la commande : npm install -g create-react-app
+Taper la commande : create-react-app --version
+Taper la commande : create-react-app hello-react
+Taper : create-react-app hello-react
+Taper : cd hello-react
+Taper : nom start
+===> Pour désinstaller un outil : npm uninstall -g @angular/cli
+
+Installer Bootstrap : npm install --save bootstrap
+Routage : npm install --save react-router-dom
+(https://www.zeolearn.com/magazine/setup-react-mac)
